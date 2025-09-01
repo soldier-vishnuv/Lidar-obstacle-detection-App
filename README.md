@@ -124,7 +124,7 @@ X, Y, Z
 
 ## 🎥 Demo Video
 
-📺 [Watch the demo]([https://tinyurl.com/hackotsav-2k25](https://drive.google.com/file/d/1AeOFKgGiWVzhDozvao35Vy10ACyQxDQM/view?usp=sharing)
+📺 [Watch the demo](https://drive.google.com/file/d/1AeOFKgGiWVzhDozvao35Vy10ACyQxDQM/view?usp=sharing)
 
 ---
 
@@ -136,6 +136,7 @@ For queries or collaboration, reach out:
 * Amrutha D — [amruthadandigimath@gmail.com](mailto:amruthadandigimath@gmail.com)
 
 ```
+
 
 
 
