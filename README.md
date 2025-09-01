@@ -7,7 +7,7 @@
 ---
 
 ## 🔴 Live Demo  
-[Click here to try the app](https://lidar-obstacle-detection-app.streamlit.app/)
+[Click here to try the app](https://lidar-obstacle-detection-app-99.streamlit.app/)
 
 ## 🧠 GitHub Repository  
 [https://github.com/soldier-vishnuv/Lidar-obstacle-detection-App](https://github.com/soldier-vishnuv/Lidar-obstacle-detection-App)
@@ -136,6 +136,7 @@ For queries or collaboration, reach out:
 * Amrutha D — [amruthadandigimath@gmail.com](mailto:amruthadandigimath@gmail.com)
 
 ```
+
 
 
 
