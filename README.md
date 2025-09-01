@@ -10,7 +10,7 @@
 [Click here to try the app](https://lidar-obstacle-detection-app.streamlit.app/)
 
 ## 🧠 GitHub Repository  
-[https://github.com/vishnuv336699/Lidar-obstacle-detection-App](https://github.com/vishnuv336699/Lidar-obstacle-detection-App)
+[https://github.com/soldier-vishnuv/Lidar-obstacle-detection-App](https://github.com/soldier-vishnuv/Lidar-obstacle-detection-App)
 
 ---
 
@@ -49,7 +49,7 @@ pip install -r requirements.txt
 ### 1. Clone the Repository
 
 
-git clone https://github.com/gv-2309/Lidar-obstacle-detection-App
+git clone https://github.com/soldier-vishnuv/Lidar-obstacle-detection-App
 
 cd Lidar-obstacle-detection-App
 
@@ -132,10 +132,11 @@ X, Y, Z
 
 For queries or collaboration, reach out:
 
-* Vishnu V — [vishnuv336699@email.com](mailto:vishnuv336699@email.com)
+* Vishnu V — [soldier.vishnuv@gmail.com](mailto:soldier.vishnuv@gmail.com)
 * Amrutha D — [amruthadandigimath@gmail.com](mailto:amruthadandigimath@gmail.com)
 
 ```
+
 
 
 
